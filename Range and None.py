@@ -30,7 +30,7 @@ print(type(d))
 print(d)
 print(id(d))
 
-#Even if we have multiple None with different variables it will target to one none object with same id
+#Even if we have multiple None with different variables it will target to one none object with same id.
 
 #Examples on Special Characters
 
