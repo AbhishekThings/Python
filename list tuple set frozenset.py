@@ -22,7 +22,7 @@ print(c[0])
 print(c[-1])
 print(c)
 
-#we cannot use append or remove function in tuple because tuple is an immutable data type we can only read the values and indexing is allowed.
+#we cannot use append or remove function in tuple because tuple is an immutable data type we can only read the values and indexing is allowed..
 
 #Examples on Set Data type
 
